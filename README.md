@@ -33,4 +33,5 @@ This project presents an **interactive Excel dashboard** designed using Walmart'
 
 ✅ Ideal for showcasing **Excel dashboarding** and **data analysis skills**.  
 📧 Feel free to reach out for any suggestions or improvements.
+<img width="716" alt="Screenshot 2025-05-09 152443" src="https://github.com/user-attachments/assets/18d7efb1-7de0-4a84-a208-b5fe752fc4a0" />
 
